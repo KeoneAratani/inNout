@@ -1,0 +1,65 @@
+#logo{
+  float: left;
+  text-indent: -1000px;
+  display: block;
+  width: 187px;
+  height: 94px;
+}
+.ui.borderless.topmenu.menu{
+  background-color: #bc0404;
+}
+
+.text{
+  color: white;
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+  font-size: 18px;
+}
+
+#History{
+  width: 91px;
+  height: 45px;
+}
+
+#Foundations{
+  width: 151px;
+  height: 45px;
+}
+
+#Downloads{
+  width: 131px;
+  height: 45px;
+}
+
+#ContactUs{
+  width: 131px;
+  height: 45px;
+}
+
+#GO{
+  color: white;
+  background-color: #bc0404;
+}
+
+.ui.borderless.middlemenu.menu{
+
+  background: url('In-N-Out-LAX.png') no-repeat center center fixed;
+  background-size: cover;
+  height: 500px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+#middle{
+  background-color: #bc0404;
+  width: 239px;
+}
+
+.ui.borderless.bottom.menu{
+  background-color: white;
+}
+
+#bottomText{
+  margin-right: 10px;
+  margin-left: 10px;
+  color: #bc0404;
+}
